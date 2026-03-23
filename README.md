@@ -5,6 +5,7 @@ A sophisticated luxury fashion e-commerce website built with modern web technolo
 ## Overview
 
 LUXE is a fully functional premium fashion website that delivers an immersive shopping experience with elegant design and smooth functionality.
+It avails lot of varieties of premium clothing that are available only on foreign stores.
 
 ## Features
 
